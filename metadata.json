@@ -1,0 +1,7 @@
+{
+  "name": "Really Confident",
+  "description": "A safe, anonymous space to vent and talk to strangers or professionals without judgment.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
